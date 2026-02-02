@@ -22,9 +22,9 @@ I engineer scalable full-stack ecosystems, bridging mobile apps with robust back
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| 🍎 **[RezekiHunter](https://github.com/Ariqdoangg/RezekiHunter)** | **Campus Food Rescue Ecosystem.** Real-time mobile app & admin dashboard to minimize food waste. | `Flutter` `Laravel` `React` |
-| 🗺️ **[HuntSphere](https://github.com/Ariqdoangg/HuntSphere)** | **GPS Treasure Hunt App.** Gamified event app with geofencing (10m accuracy) & live leaderboards. | `Flutter` `Supabase` `Maps API` |
-| 🔄 **[SkillSwap](https://github.com/Ariqdoangg/SkillSwap)** | **Skill Exchange Platform.** Community learning platform with smart matching logic. | `Laravel 12` `Inertia` `React` |
+| **[RezekiHunter](https://github.com/Ariqdoangg/RezekiHunter)** | **Campus Food Rescue Ecosystem.** Real-time mobile app & admin dashboard to minimize food waste. | `Flutter` `Laravel` `React` |
+| **[HuntSphere](https://github.com/Ariqdoangg/HuntSphere)** | **GPS Treasure Hunt App.** Gamified event app with geofencing (10m accuracy) & live leaderboards. | `Flutter` `Supabase` `Maps API` |
+| **[SkillSwap](https://github.com/Ariqdoangg/SkillSwap)** | **Skill Exchange Platform.** Community learning platform with smart matching logic. | `Laravel 12` `Inertia` `React` |
 
 <div align="center">
 
