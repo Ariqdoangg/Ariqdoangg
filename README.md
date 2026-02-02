@@ -1,16 +1,48 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Ariqdoangg/Ariqdoangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Ariq Haikal! 👋
+### Software Engineering Student @ UPSI 🇲🇾
 
-Here are some ideas to get you started:
+I engineer scalable full-stack ecosystems, bridging mobile apps with robust backends.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,react,laravel,php,mysql,supabase,html,css,tailwind,git,vscode,postman,figma&perline=7" />
+  </a>
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+</div>
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| 🍎 **[RezekiHunter](https://github.com/Ariqdoangg/RezekiHunter)** | **Campus Food Rescue Ecosystem.** Real-time mobile app & admin dashboard to minimize food waste. | `Flutter` `Laravel` `React` |
+| 🗺️ **[HuntSphere](https://github.com/Ariqdoangg/HuntSphere)** | **GPS Treasure Hunt App.** Gamified event app with geofencing (10m accuracy) & live leaderboards. | `Flutter` `Supabase` `Maps API` |
+| 🔄 **[SkillSwap](https://github.com/Ariqdoangg/SkillSwap)** | **Skill Exchange Platform.** Community learning platform with smart matching logic. | `Laravel 12` `Inertia` `React` |
+
+<div align="center">
+
+---
+
+### 📊 Coding Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ariqdoangg&show_icons=true&theme=default&hide_border=true&bg_color=F8FAFC&title_color=0F766E&icon_color=2DD4BF&text_color=475569" height="150" />
+
+<br/>
+
+### 📫 Let's Connect
+<a href="https://linkedin.com/in/ariqhaikal">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:4riq.haikal@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
