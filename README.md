@@ -2,7 +2,6 @@
 
 # Hi there, I'm Ariq Haikal! 👋
 ### Software Engineering Student @ UPSI 🇲🇾
-
 I engineer scalable full-stack ecosystems, bridging mobile apps with robust backends.
 
 ---
@@ -31,13 +30,8 @@ I engineer scalable full-stack ecosystems, bridging mobile apps with robust back
 
 ---
 
-### 📊 Coding Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ariqdoangg&show_icons=true&theme=default&hide_border=true&bg_color=F8FAFC&title_color=0F766E&icon_color=2DD4BF&text_color=475569" height="150" />
-
-<br/>
-
 ### 📫 Let's Connect
+
 <a href="https://linkedin.com/in/ariqhaikal">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
