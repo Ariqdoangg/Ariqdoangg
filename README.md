@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi there, I'm Ariq Haikal! 👋
-### Software Engineering Student @ UPSI 🇲🇾
+### Software Engineering Fresh Graduate
 I engineer scalable full-stack ecosystems, bridging mobile apps with robust backends.
 
 ---
